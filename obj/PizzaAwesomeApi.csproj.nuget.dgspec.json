@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\PRO_apbd\\PizzaAwesome\\PizzaAwesomeApi\\PizzaAwesomeApi.csproj": {}
+  },
+  "projects": {
+    "Z:\\PRO_apbd\\PizzaAwesome\\PizzaAwesomeApi\\PizzaAwesomeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\PRO_apbd\\PizzaAwesome\\PizzaAwesomeApi\\PizzaAwesomeApi.csproj",
+        "projectName": "PizzaAwesomeApi",
+        "projectPath": "Z:\\PRO_apbd\\PizzaAwesome\\PizzaAwesomeApi\\PizzaAwesomeApi.csproj",
+        "packagesPath": "C:\\Users\\s17006\\.nuget\\packages\\",
+        "outputPath": "Z:\\PRO_apbd\\PizzaAwesome\\PizzaAwesomeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\s17006\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
